@@ -1,4 +1,4 @@
-[![MasterHead](https://img-b.udemycdn.com/course/750x422/4973660_7ee7_7.jpg)
+[![MasterHead](https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096)
 <h1 align="center">Hi 👋, I'm bilal</h1>
 <h3 align="center">developer for mobil</h3>
 

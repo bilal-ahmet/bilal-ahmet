@@ -1,8 +1,8 @@
 [![MasterHead](https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096)
 <h1 align="center">Hi 👋, I'm bilal</h1>
-<h3 align="center">developer for mobil</h3>
+<h3 align="center">developer for mobil and full stack</h3>
 
-- 🌱 I’m currently learning **dart and flutter**
+- 🌱 I develop mobile applications using **flutter**.
 
 - 📫 How to reach me **akpinarbilalahmet@gmail.com**
 
